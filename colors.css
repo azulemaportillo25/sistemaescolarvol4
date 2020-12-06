@@ -1,0 +1,87 @@
+/*color pagina principal*/
+#encabezado{
+    width: 100%;
+    background-color: chocolate;
+    overflow: hidden;
+    border-color: coral;
+    border-style: solid;
+}
+
+/*imagenes de mi imagenen del encabezado*/
+.imagen{
+    border-radius: 10px;
+    border-color: cyan;
+    border-style: solid;
+    height: 170%;
+    width: 170%;
+    border-radius: 5%;
+}
+
+/*titulo de mi encabezado*/
+.letra{
+    color: darkred;
+    text-align: center;
+}
+
+/*color de mi pagina principal*/
+.colorpagina{
+    background-color: coral;
+}
+
+/*color de mi pagina de formulario del maestro*/
+.colorpagina2{
+    background-color: rgb(65, 228, 32);
+}
+
+/*color de mi pagina de formulario del alumno*/
+.colorpagina3{
+    background-color: rgb(243, 61, 213);
+}
+
+/*color de mi pagina de formulario del alumno*/
+.colorpagina4{
+    background-color: rgb(61, 243, 213);
+}
+
+
+.centrado{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.letramen{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+/*clase para pie de pagina*/
+#piepag{
+    width: 100%;
+    background-color: chocolate;
+    overflow: hidden;
+    border-color: coral;
+    border-style: solid;
+}
+/*clase para pie de pagina*/
+#piepag2{
+    width: 100%;
+    background-color: rgb(109, 49, 7);
+    border-color: coral;
+    overflow: hidden;
+    border-style: solid;
+}
+/*clase entrar mis imagenes de pie de pag.*/
+.icon{
+    border-color: green;
+    border-style: solid;
+    height: 30px;
+    width: 30px;
+    border-radius: 5%;
+}
+/*clase entrar mis imagenes de pie de pag.*/
+.icon2{
+    height: 50px;
+    width: 45px;
+}
+.centrarform{
+    margin: auto;
+}
